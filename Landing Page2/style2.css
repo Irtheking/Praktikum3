@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color:  #DDEAF7;
+}
+
+.baratas {
+    
+    background-color:   #DDEAF7;
+    padding: 40px;
+    margin: auto;
+}
+
+.h1 {
+    
+    float: left;
+    padding: 20px;
+    margin: auto;
+}
+.menu ul {
+    float: right;
+}
+
+.menu ul li {
+    
+    display: inline-block;
+    padding: 20px;
+    margin: auto;
+    
+}
+
+.banner {
+    
+    height: 40vh;
+    background-image: url(./img/background.jpg);
+
+
+}
+
+h2 {
+    padding: 5px;
+    margin: auto;
+}
+
+p {
+    padding: 10px;
+}
+
+ul li {
+    padding-left: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+ 
+}
